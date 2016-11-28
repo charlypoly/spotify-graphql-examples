@@ -6,6 +6,7 @@
 - Edit `examples/config.json` with your application info (see [spotify doc](https://developer.spotify.com/my-applications))
 
 ```
+npm i
 nvm use 4.3.2
 node examples/fetchTracks.js
 ```
@@ -18,7 +19,7 @@ node examples/fetchTracks.js
 
 ```
 npm i
-nvm use 4.3.2
 tsc
+nvm use 4.3.2
 node build/examples/fetchTracks.js
 ```
