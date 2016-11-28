@@ -1,0 +1,18 @@
+{
+  "name": "spotify-graphql-examples",
+  "version": "0.0.0",
+  "description": "Spotify GraphQL use cases",
+  "main": "examples/fetchTrack.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Charly POLY <hello@charlypoly.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spotify-graphql": "0.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.51",
+    "standard-version": "^3.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+examples/config.json
+examples/config.ts
+build
+node_modules
