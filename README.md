@@ -1,4 +1,4 @@
-### Examples in TypeScript and Node.js (v6) for [spotify-graphql](https://github.com/thefrenchhouse/spotify-graphql) NPM package
+### Examples for [spotify-graphql](https://github.com/thefrenchhouse/spotify-graphql) NPM package
 
 ### Node.js (v6)
 
