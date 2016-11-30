@@ -14,5 +14,11 @@ SpotifyGraphQLClient(config).query(`
     }
   }
 `).then(executionResult => {
-  console.log(JSON.stringify(executionResult.data));
-});
+  if (executionResult.errors) {
+    console.log('error');
+    console.error(JSON.stringify(executionResult.errors));
+  } else {
+    console.log('success');
+    console.log(JSON.stringify(executionResult.data));
+  }
+})

@@ -14,5 +14,11 @@ spotify_graphql.SpotifyGraphQLClient(config).query(`
     }
   }
 `).then(executionResult => {
+  if (executionResult.errors) {
+    console.log('error');
+    console.error(JSON.stringify(executionResult.errors));
+  } else {
+    console.log('success');
     console.log(JSON.stringify(executionResult.data));
-});
+  }
+})
