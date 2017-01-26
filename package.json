@@ -1,6 +1,6 @@
 {
   "name": "spotify-graphql-examples",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Spotify GraphQL use cases",
   "main": "examples/fetchTrack.js",
   "scripts": {
