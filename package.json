@@ -9,7 +9,7 @@
   "author": "Charly POLY <hello@charlypoly.com>",
   "license": "MIT",
   "dependencies": {
-    "spotify-graphql": "0.2.1",
+    "spotify-graphql": "0.2.2",
     "standard-version": "^3.0.0"
   },
   "devDependencies": {

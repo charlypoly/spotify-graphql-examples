@@ -5,7 +5,7 @@ SpotifyGraphQLClient(config).query(`
   {
     artist(id: "0oSGxfWSnnOXhD2fKuz2Gy") {
       name
-      topTracks {
+      top_tracks {
         name
       }
     }
