@@ -10,7 +10,8 @@
     "outDir": "build",
     "allowSyntheticDefaultImports": true,
     "removeComments": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "skipLibCheck": true
   },
   "include": [
     "examples/*.ts"
