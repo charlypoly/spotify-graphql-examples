@@ -1,5 +1,7 @@
 ### Examples for [spotify-graphql](https://github.com/thefrenchhouse/spotify-graphql) NPM package
 
+*([Try with the interactive console !](http://spotify.thefrench.house/graphql-console/))*
+
 ### Node.js (v6)
 
 - Copy `examples/config.example.json` to `examples/config.json`
