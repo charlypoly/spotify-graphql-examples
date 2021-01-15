@@ -1,6 +1,5 @@
-### Examples for [spotify-graphql](https://github.com/thefrenchhouse/spotify-graphql) NPM package
+### Examples for [spotify-graphql](https://github.com/wittydeveloper/spotify-graphql) NPM package
 
-*([Try with the interactive console !](http://spotify.thefrench.house/graphql-console/))*
 
 ### Node.js (v6)
 
